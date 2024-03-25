@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryInNet6", "LibraryInNet6\LibraryInNet6.csproj", "{4BDF38E4-D105-42A4-95EE-AA1FD2002AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInNet8", "AppInNet8\AppInNet8.csproj", "{7090AB55-7062-4605-89CC-D43CDEA25EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDF38E4-D105-42A4-95EE-AA1FD2002AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDF38E4-D105-42A4-95EE-AA1FD2002AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDF38E4-D105-42A4-95EE-AA1FD2002AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDF38E4-D105-42A4-95EE-AA1FD2002AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7090AB55-7062-4605-89CC-D43CDEA25EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7090AB55-7062-4605-89CC-D43CDEA25EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7090AB55-7062-4605-89CC-D43CDEA25EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7090AB55-7062-4605-89CC-D43CDEA25EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
