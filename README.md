@@ -1,6 +1,7 @@
-Pre requisites:
+# Pre requisites
 1. Have both .NET 6 and .NET 8 installed.
 
+# Steps to reproduce
 1. dotnet restore
 2. dotnet build
 3. dotnet publish
